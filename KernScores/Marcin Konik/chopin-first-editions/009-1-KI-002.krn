@@ -1,0 +1,848 @@
+!!!COM: Chopin, Fryderyk
+!!!OTL: 2d Nocturne
+!!!OPS: Op. 9
+!!!OPR: Trois Nocturnes pour le Pianoforte
+!!!OCL: Friedrich Kistner
+!!!NIFC-rismID: 1001013451
+!!!OMD: M. M. [quarter] = 132
+!!!OMD: Andante.
+!!!system-decoration: {(s1,s2)}
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*M12/8	*M12/8	*
+*	*	*
+!	!LO:TX:b:t=espress.	!
+8r	8b-	.
+=1	=1	=1
+*ped	*	*
+!	!LO:TX:b:t=dolce.	!
+8EE-'>L	[4.gg	.
+(8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8B-)	.	.
+*ped	*	*
+8E-'>L	(8ggL]	.
+(8d 8A-	8ff	.
+*Xped	*	*
+8a-J 8d 8c-X)	8ggJ	.
+*ped	*	*
+8EE-'>L	4.ff	.
+(8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8B-)	.	.
+*ped	*	*
+8DD'>L	4ee-)	.
+(8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8B-)	(8b-	.
+=2	=2	=2
+*ped	*	*
+8CCL	4gg	.
+8en 8G	.	.
+*Xped	*	*
+8gJ 8e 8B-	8ccS	<
+*ped	*	*
+8CL	4ccc	[
+8e 8G	.	.
+*Xped	*	*
+8b-J 8e 8c	8gg	.
+*ped	*	*
+8FFL	4.bb-	.
+8d-X 8F	.	.
+*Xped	*	*
+8eJ 8d- 8B-	.	.
+*ped	*	*
+8FFL	4aa-	.
+8c 8F	.	.
+*Xped	*	*
+8fJ 8c 8A-	8gg)	.
+=3	=3	=3
+*ped	*	*
+8BB-L	4.ff	.
+8d 8F	.	.
+*Xped	*	*
+8a-J 8d 8B-	.	.
+*ped	*	*
+8BBnL	(4gg	.
+8f 8G	.	.
+*Xped	*	*
+8gJ 8f 8d	8dd)	.
+*ped	*	*
+8CL	4.ee-	.
+8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8c	.	.
+*ped	*	*
+8AAnL	4.cc	.
+8e- 8G-X	.	.
+*Xped	*	*
+8g-XJ 8e- 8c	.	.
+=4	=4	=4
+!!linebreak:original
+*ped	*	*
+8BB-yL	(8b-L	.
+8e- 8F	8ddd)	.
+*Xped	*	*
+8a-J 8e- 8B-	(8cccJ	.
+*ped	*	*
+8BBB-L	16bb-LL	.
+.	16aa-	.
+8d 8F	16gg	.
+.	16aa-)	f
+*Xped	*	*
+8a-J 8B-	(16cc	.
+.	16ddJJ	.
+*ped	*	*
+8EE-L	4.ee-)	.
+8e- 8Gny	.	.
+8gnyJ 8e- 8B-	.	.
+8E-L	4r	.
+8e- 8G	.	.
+8gJ 8e- 8B-	(8b-	.
+=5	=5	=5
+8E-'L	4.gg	p
+(8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8B-)	.	.
+*ped	*	*
+8E-'L	16ffLL)	.
+.	16gg	.
+(8d 8A-	16ffM	.
+.	16een	.
+*Xped	*	*
+8a-J 8d 8c-X)	16ff	.
+.	16ggJJ	.
+*ped	*	*
+8E-'L	8ff	.
+(8e- 8G	[4ee-X^<	.
+*Xped	*	*
+8gJ 8e- 8B-)	.	.
+*ped	*	*
+8D'L	16ee-LL]	.
+.	16ff	.
+(8e- 8G	16ee-M	.
+.	16dd	.
+*Xped	*	*
+8gJ 8e- 8B-)	16ee-	.
+.	16ffJJ	.
+=6	=6	=6
+*ped	*	*
+8CL	16ggLL	<
+.	16bn	.
+8en 8G	16cc	.
+.	(16dd^	.
+8gJ 8e 8B-	16cc)	.
+!	!LO:TX:i:t=cres.	!
+.	(16ff^J	.
+8CL	16eenL)	.
+.	(16aa-^	.
+8e 8G	16gg)	.
+.	(16ddd	.
+*Xped	*	*
+8b-J 8e 8c	16ccc	.
+.	16ggJJ	[
+*ped	*	*
+8FFL	4.bb-)	>
+8d-X 8F	.	.
+*Xped	*	*
+8eJ 8d- 8B-	.	]
+*ped	*	*
+8FFL	4aa-	.
+8c 8F	.	.
+*Xped	*	*
+8fJ 8c 8A-	8gg	.
+=7	=7	=7
+!!linebreak:original
+*ped	*	*
+8BB-L	4.ffT	.
+8d 8F	.	.
+*Xped	*	*
+8a-J 8d 8B-	.	.
+.	16qqee-/LL	.
+.	16qqff/JJ	.
+*ped	*	*
+8BBnL	8ggL	.
+8f 8G	(8gg	.
+*Xped	*	*
+8gJ 8f 8d	8ddJ)	.
+*ped	*	*
+8CL	(4.ee-	.
+8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8c	.	.
+*ped	*	*
+8AAnL	4.cc)	.
+8e- 8G-X	.	.
+*Xped	*	*
+8g-XJ 8e- 8c	.	.
+=8	=8	=8
+*ped	*	*
+8BB-L	(8b-L	.
+8e- 8F	8ddd)	.
+*Xped	*	*
+8a-J 8e- 8B-	(8ccc'J	.
+*ped	*	*
+8BBB-L	16bb-'LL	.
+.	16aa-'	.
+8d 8F	16gg'	.
+.	16aa-'	.
+.	8qaa-/	.
+*Xped	*	*
+8a-J 8B-	16cc	.
+.	16ddJJ)	.
+*ped	*	*
+8EE-L	[4.ee-	.
+8e- 8G	.	.
+8gJ 8e- 8B-	.	.
+8E-L	8ee-L]	.
+8e- 8G	8dd	.
+*Xped	*	*
+8gJ 8e- 8B-	8ee-J	.
+=9	=9	=9
+*ped	*	*
+8BB-'L	4.ff	p
+(8d 8F	.	.
+8fJ 8d 8B-)	.	.
+8BB-'L	(4gg	>
+(8d 8F	.	]
+*Xped	*	*
+8fJ 8d 8B-)	8ff)	.
+*ped	*	*
+8AAn'L	(4.ff	pp
+(8c 8F	.	.
+8fJ 8c)	.	.
+8AA'L	4.cc)	.
+(8c 8F	.	.
+*Xped	*	*
+8fJ 8c)	.	.
+=10	=10	=10
+!!linebreak:original
+*ped	*	*
+!	!LO:TX:b:i:t=poco ritard.:	!
+8AA-XL	(8ee-'L	.
+8c 8E-	8ee-'	.
+8e-J 8c 8A-	8ee-'J	.
+8AAA-L	8ee-L)	.
+8c-X 8E-	(16ddnL	.
+.	16ee-	.
+*Xped	*	*
+8e-J 8c- 8A-	16.ff	.
+.	32ee-JJk	.
+*ped	*	*
+8EE-'<L	4.ee-)	.
+(8e- 8G	.	.
+8gJ 8e- 8B-)	.	.
+8E-'L	4.b-	.
+(8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8B-)	.	f
+=11	=11	=11
+!	!LO:TX:b:t=Tempo 1.	!
+*ped	*	*
+8EEnL	4.bb-	.
+8d-X 8Eny	.	.
+*Xped	*	*
+8gJ 8d- 8B-	.	.
+*ped	*	*
+8EEL	4aan	.
+8c 8Eny	.	.
+*Xped	*	*
+8gJ 8c 8B-	8gg	.
+*ped	*	*
+8FFL	4.ff 4.an	.
+8eny 8F	.	.
+*Xped	*	*
+8anJ 8eny 8c	.	.
+*ped	*	*
+8GGL	4.dd 4.b-	.
+8d- 8G	.	.
+*Xped	*	*
+8b-J 8d- 8B-	.	.
+=12	=12	=12
+*ped	*	*
+8CCL	4.ee-/ 4.g/	.
+8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8c	.	.
+*ped	*	*
+8FFL	(8dd'/L 8an/	.
+8e- 8F	8cc' 8a	.
+*Xped	*	*
+8fJ 8e- 8c	8dd'J 8a	.
+8dL 8B-	8b-L 8f)	.
+!	!LO:TX:b:i:t=poco rallent.	!
+!	!	!LO:HP:a
+8d#X 8An	(8bn' 8f#X	<
+8G#XJ	8b'J 8en	.
+8GnL	8cc'L 8b-X 8e	.
+8e-X 8c 8F	8cc' 8an 8fn	.
+8fJ 8B-	8dd'J 8a-X)	[
+=13	=13	=13
+!!linebreak:original
+!	!LO:TX:a:t=Tempo 1.	!
+.	16qqg/LL	.
+.	16qqb-/	.
+.	16qqee-/JJ	.
+*ped	*	*
+8EE-L	4gg	fz
+8e- 8G	.	p
+*Xped	*	*
+8gJ 8e- 8B-	(16an\LL	.
+.	16b-JJ	.
+8E-L	16cc-XLL	.
+.	16b-	.
+8d 8A-	16cc#X	.
+.	16dd	.
+8a-J 8d 8B-	16.gg	.
+.	32ffJJk)	.
+8E-L	4ff	.
+8e- 8G	.	.
+8gJ 8e- 8B-	[8ee-	.
+8DL	16ee-LL]	.
+.	16ff	.
+8e- 8G	16ee-M	.
+.	16dd	.
+8gJ 8e- 8B-	16ee-	.
+.	16ffJJ	.
+=14	=14	=14
+8CL	16ggLL	<
+.	16bn	.
+8en 8G	16cc	.
+.	(16dd-X	.
+8gJ 8e 8B-	16cc)	.
+.	(16ffJJ	[
+!	!LO:TX:b:t=cres.	!
+8CL	16eenLL)	.
+.	(16aa-	.
+8e 8G	16gg)	.
+.	(16ddd-y	.
+8b-J 8e 8c	16ccc	.
+.	16ggJJ	.
+8FFL	4.bbny)	.
+8d-X 8F	.	.
+8eJ 8d- 8B-	.	.
+8FFL	4aa-	>
+8c 8F	.	.
+8fJ 8c 8A-	8gg	]
+=15	=15	=15
+8BB-L	4.ffT	p
+8d 8F	.	.
+8a-J 8d 8B-	.	.
+.	16qqee-/LL	.
+.	16qqff/JJ	.
+8BBnL	8gg'L	.
+8f 8G	(8gg^<	.
+8gJ 8f 8d	8ddJ)	.
+8CL	4.ee-	<
+8e- 8G	.	.
+8gJ 8e- 8c	.	.
+8AAnL	4.cc	.
+8e- 8G-X	.	[
+8g-XJ 8e- 8c	.	.
+=16	=16	=16
+!!linebreak:original
+8BB-L	(8b-L	.
+8e- 8F	8ddd)	.
+8a-J 8e- 8B-	(8ccc#X'J	.
+*	*Xtuplet	*
+!	!LO:TX:a:t=5	!
+!	!LO:TX:a:i:t=podwójna belka w całej grupie	!
+8BBB-L	104%3cccn'LL	.
+!	!LO:TX:a:t=5	!
+.	104%3bbn'	.
+!	!LO:TX:a:t=4	!
+.	104%3bb-X'	.
+!	!LO:TX:a:t=5	!
+.	104%3aan'	.
+.	104%3aa-X'	.
+8d 8F	.	.
+.	104%3ff'	.
+.	104%3dd'	.
+.	104%3cc-X'^<)	.
+.	104%3b-	.
+8a-J 8d 8B-	.	.
+.	104%3dd	.
+!	!LO:TX:a:t=5	!
+.	104%3gg	.
+!	!LO:TX:a:t=4	!
+.	104%3ff	.
+!	!LO:TX:a:t=2	!
+.	104%3ee-JJ	.
+*	*tuplet	*
+!	!LO:TX:a:t=1	!
+8EE-L	[4.ee-	.
+8e- 8G	.	.
+8gJ 8B-	.	.
+8E-L	8ee-L]	.
+8e- 8G	8dd	.
+8gJ 8B-	8ee-J	.
+=17	=17	=17
+8BB-L	(4.ff	.
+8d 8F	.	.
+8fJ 8d 8B-	.	.
+8BB-L	4gg	.
+8d 8F	.	.
+8fJ 8d 8B-	8ff)	.
+8AAnL	(4.ff	.
+8c 8F	.	.
+8fJ 8c	.	.
+8AAL	4.cc)	.
+8c 8F	.	.
+8fJ 8c	.	.
+=18	=18	=18
+!	!LO:TX:a:i:t=pojedyncza belka, oznaczenie "4" nad nutami	!
+8AA-XL	(32%3ee-L	.
+.	32%3ee-	.
+8c 8E-	.	.
+.	32%3ee-	.
+8e-J 8c 8A-	.	.
+.	32%3ee-J	.
+8AAA-L\	8ee-L	.
+8c-X 8E-	16ddL	.
+.	16ee-	.
+8e-J 8c- 8A-	16.ff	.
+.	32ee-JJk	.
+8EE-L	4.ee-)	.
+8e- 8G	.	.
+8gJ 8e- 8B-	.	.
+8E-L	4.b-	<
+8e- 8G	.	.
+8gJ 8e- 8B-	.	[
+=19	=19	=19
+!!pagebreak:original
+8EEnL	(4.bb-	f
+8d-X 8Eny	.	.
+8gJ 8d- 8B-	.	.
+8EEL	4aan)	.
+8c 8Eny	.	.
+8gJ 8c 8B-	8gg	.
+8FFL	4.ff 4.an	>
+8eny 8F	.	.
+8anJ 8eny 8c	.	.
+8GGL	4.dd 4.b-	]
+8d- 8G	.	.
+8b-J 8d- 8B-	.	.
+=20	=20	=20
+8CCL	4.ee- 4.g	.
+8e- 8G	.	.
+8gJ 8e- 8c	.	.
+8FFL	(8dd'/L 8an/	.
+8e- 8F	8cc' 8a	.
+8fJ 8e- 8c	8dd'J 8a)	.
+!	!	!LO:HP:a
+8dL 8B-	(8b-'L 8f	<
+!	!LO:TX:i:t=poco rall.	!
+8d#X 8An	8bn' 8f#X	.
+8G#XJ	8b'J 8en	.
+8GnL	8cc'L 8b-X 8e	.
+8e-X 8c 8F	8cc' 8a 8fn	.
+8fJ 8B-	8dd'J 8a-X)	.
+.	.	[
+=21	=21	=21
+!	!LO:TX:a:i:t=Tempo 1.	!
+.	(16qg/LL	fz
+.	16qb-/	.
+.	16qee-/JJ)	.
+8EE-'L	4gg	.
+8e- 8G	.	p
+!	!LO:TX:a:i:t=kasownik dopisany olowkiem	!
+8gJ 8e- 8B-	(16an\LL	.
+.	16b-JJ	.
+8E-'L	16cc-X^>LL	.
+.	16b-	.
+(8d 8A-	16cc#X	.
+.	16dd	.
+8a-J 8d 8B-)	16.gg^>	.
+.	32ffJJk)	.
+8E-'L	4ff	>
+(8e- 8G	.	.
+.	.	]
+8gJ 8e- 8B-)	[8ee-	.
+(8DL	16ee-LL]	.
+.	16ff	<
+8e- 8G	16ee-T	.
+.	16dd	.
+8gJ 8e- 8B-)	16ee-	.
+.	(16ffJJ	.
+.	.	[
+=22	=22	=22
+!!linebreak:original
+8C'L	16ggLL)	.
+.	16bn	.
+(8en 8G	16ccny	.
+.	(16dd-X^	.
+8gJ 8e 8B-)	16cc)	.
+.	(16ff^JJ	.
+8C'L	16eenLL)	<
+.	(16aa-^	.
+8e 8G	16gg)	.
+.	(16dddy	.
+8b-J 8e 8c	16ccc	.
+.	16ggJJ	.
+.	8qgg/	.
+8FFL	4.bbny)	[
+8d-X 8B- 8F	.	.
+8enJ 8d- 8B-	.	.
+8FFL	4aa-	.
+8c 8F	.	.
+8fJ 8c 8A-	8gg	.
+=23	=23	=23
+8BB-L	4.ffT	.
+8d 8F	.	.
+8a-J 8d 8B-	.	.
+.	16qqee-/LL	.
+.	16qqff/JJ	.
+8BBnL	8gg`L	.
+8f 8G	(>8gg	.
+8gJ 8f 8d	8ddJ)	.
+8CL	4.ee-	.
+8e- 8G	.	.
+8gJ 8e- 8c	.	.
+8AAnL	4.cc	.
+8e- 8G-X	.	.
+8g-XJ 8e- 8c	.	.
+=24	=24	=24
+8BB-L	(16b-KL	.
+.	8ddd'	.
+8e- 8F	.	.
+.	16.ccc#X'L	.
+8a-J 8e- 8B-	.	.
+.	16cccn'	.
+.	32bbn'JJk	.
+8BBB-L	16bb-X'LL	.
+.	16aan'JJ)	.
+8d 8F	32aa-X`LLL	.
+.	(32an	.
+.	32b-	.
+.	32bn	.
+*	*Xtuplet	*
+8a-J 8d 8B-	48cc	.
+.	48cc#X	.
+.	48dd	.
+.	48gg	.
+!	!LO:TX:a:t=3	!
+.	48ff	.
+.	48ee-JJJ)	.
+*	*tuplet	*
+8EE-L	2.ee-^	.
+8e- 8G	.	.
+8gJ 8e- 8B-	.	.
+8E-L	.	.
+8e- 8G	.	.
+8gJ 8e- 8B-	.	.
+=25	=25	=25
+!!linebreak:original
+*ped	*	*
+8EE-L	4.ee-	p
+8e- 8c-X 8A-	.	.
+8a-J 8e- 8c-	.	.
+8E-L	(8ffL	.
+8e- 8c- 8A-	8ee-	.
+*Xped	*	*
+8a-J 8e- 8c-	8ffJ	.
+*ped	*	*
+8EE-L	2.gg)	.
+(8e- 8G	.	.
+8gJ 8e- 8B-)	.	.
+8E-'L	.	.
+(8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8B-)	.	.
+=26	=26	=26
+*ped	*	*
+8EE-L	[4.ee-	pp
+8e- 8c-X 8A-	.	.
+8a-J 8e- 8c-	.	.
+8E-L	(16ee-LL]	.
+.	16ff	.
+8e- 8c- 8A-	16ee-)	.
+.	(16ff	.
+*Xped	*	*
+8a-J 8e- 8c-	16ee-	.
+.	16ffJJ	.
+*ped	*	*
+8EE-L	4gg)	.
+!	!LO:TX:b:t=poco rubato.	!
+8e- 8B- 8G	.	.
+8gJ 8e- 8B-	(8ee-S	.
+!	!LO:TX:a:t=5	!
+8E-L	8eee-L)	.
+!	!LO:TX:a:t=5	!
+8e- 8G	8ddd	.
+!	!LO:TX:a:t=5	!
+*Xped	*	*
+8gJ 8e- 8B-	8cccJ	.
+=27	=27	=27
+!	!LO:TX:b:t=sempre 	!
+*ped	*	*
+!	!LO:TX:a:t=4	!
+8E-L	4bb-	.
+8d 8F	.	.
+!	!LO:TX:a:t=5	!
+8a-J 8B-	(8aan	.
+8E-L	8aa-XL)	pp
+8d 8F	8cc	.
+*Xped	*	*
+8a-J 8B-	8ddJ	.
+*ped	*	*
+8E-L	8ee-L	.
+8e- 8G	16ffL	.
+.	16ee-M	.
+*Xped	*	*
+8gJ 8B-	16dd	.
+.	16ee-JJ	.
+.	(>8qee-/	.
+*ped	*	*
+!	!LO:TX:b:t=dolciss.	!
+8AAnL	8ggg'L)	.
+!	!LO:TX:a:t=5	!
+8e- 8F	(16fff'L	.
+!	!LO:TX:a:t=4	!
+.	16eee-'	.
+*Xped	*	*
+!	!LO:TX:a:t=5	!
+8fJ 8e- 8c	16ddd'	.
+!	!LO:TX:a:t=5	!
+.	16ccc'JJ	.
+=28	=28	=28
+!!linebreak:original
+*ped	*	*
+!	!LO:TX:a:t=5	!
+8BB-L	8ccc-XL	.
+!	!LO:TX:a:t=4	!
+8e- 8F	8bb-)	.
+*Xped	*	*
+!	!LO:TX:a:t=5	!
+8a-J 8e- 8B-	8bb--J	.
+!LO:TX:b:t=złamana belka	!	!
+*ped	*	*
+!	!LO:TX:a:t=5	!
+8BBB-L	(16bb--LL	.
+!	!LO:TX:a:t=4	!
+.	16aa-JJ)	.
+!	!LO:TX:a:t=4	!
+8d 8F	(16aa-LL	.
+!	!LO:TX:a:t=5	!
+.	16ggJJ)	.
+*Xped	*	*
+!	!LO:TX:a:t=5	!
+8a-J 8d 8B-	(16.ggLL	.
+!	!LO:TX:a:t=4	!
+.	32ffJJk	.
+*ped	*	*
+!	!LO:TX:a:t=3	!
+8EE-L	2.ee-^<)	.
+8e- 8G	.	.
+8gJ 8e- 8B-	.	.
+8E-L	.	.
+8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8B-	.	.
+=29	=29	=29
+*ped	*	*
+!LO:TX:b:t=złamana belka	!	!
+8AAA-\L	[4.ee-	p
+8c-X 8A- 8E-	.	.
+8e-J 8c- 8A-	.	.
+*	*Xtuplet	*
+!	!LO:TX:a:i:t=podwójna belka	!
+8a-L 8e- 8c-	64%3ee-LL]	.
+.	64%3ff	.
+.	(64%3ee-	.
+8e- 8c- 8A-	.	.
+.	64%3ff	.
+.	64%3ee-)	.
+.	(64%3ff	<
+*Xped	*	*
+8c-J 8A- 8E-	.	.
+.	64%3ee-	.
+.	64%3ffJJ)	.
+*	*tuplet	*
+*ped	*	*
+8EE-L	4.gg	[
+8e- 8G	.	.
+8gJ 8e- 8B-	.	.
+8E-L	4r	.
+8e- 8G	.	.
+*Xped	*	*
+8gJ 8e- 8B-	8r	.
+=30	=30	=30
+!	!LO:TX:b:t=con forza.	!
+*ped	*	*
+!LO:TX:b:i:t=złamana belka (też w 3. grupie)	!	!
+8AAA-\L	8ee-`\L	.
+8c-X 8A- 8E-	(>16a-L	.
+.	16b-	.
+8e-J 8c- 8A-	16a-T	.
+.	16gJJ	.
+8c-L 8A- 8E-	16a-LL	.
+.	16cc-X	.
+8e- 8c- 8A-	16ee-	.
+.	16aa-	.
+*Xped	*	*
+8c-J 8A- 8E-	16eee-)	.
+.	32r	.
+.	(32fffJJk	.
+*ped	*	*
+*	*8va	*
+8EE-L	(8gggL	.
+8e- 8G	8eee-J))	.
+*Xped	*	*
+8gJ 8e- 8B-	4eeee- 4eee-	>
+*ped	*	*
+8AAnL	.	]
+!	!LO:TX:b:t=stretto.	!
+8e- 8F	8ddddL 8ddd	.
+*Xped	*	*
+8fJ 8e- 8c-	8cccc-yJ 8ccc-y	.
+=31	=31	=31
+!!linebreak:original
+*^	*	*
+*ped	*	*	*
+8BB-L	2.ryy	8cccc-XL 8ccc-y\	.
+8e- 8B- 8F	.	8bbb- 8bb-	.
+*Xped	*	*	*
+8a-J 8e- 8B-	.	8bbb--J 8bb--	.
+*ped	*	*	*
+8BBnL	.	8aaa-XL 8aa-X\	.
+8f 8G	.	8ggg 8gg	.
+*Xped	*	*	*
+8gJ 8f 8d	.	8dddJ 8dd	.
+*ped	*	*	*
+8C\L	4.ryy	8eee- 8ee-	.
+8e- 8G	.	4.eeee-^< 4.eee-	.
+*Xped	*	*	*
+8gJ 8c	.	.	.
+*ped	*	*	*
+8r	8AAn\`>	.	.
+8e-/L 8c/	4F	8fffL 8ff	.
+*Xped	*	*	*
+8fJ 8e- 8c	.	8cccc-J 8ccc-	.
+*v	*v	*	*
+=32	=32	=32
+*ped	*	*
+!LO:TX:b:i:t=pojedyncza belka	!	!
+*Xtuplet	*	*
+(32%3BBB-L	2.cccc-X 2.ccc-X	ff
+32%3BB-	.	.
+!	!LO:TX:v:t=senza _ _ Tempo.	!
+32%3F	.	.
+32%3A-	.	.
+32%3d	.	.
+32%3B-	.	.
+*clefG2	*	*
+32%3f	.	.
+32%3a-J)	.	.
+*tuplet	*	*
+!	!LO:TX:a:i:t=t. 32 niepoprawnie się wyświetla	!
+2.dd	2.bbb-; 2.bb-	.
+.	16qqcccc-X/LL	<
+.	16qqbbb-/	.
+.	16qqccccn/	.
+.	16qqaaan/JJ	.
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+.	16qqaaa/JJ	.
+!	!LO:TX:a:i:t=nie wyświetla się graficzne oznaczenie crescendo	!
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+.	16qqaaa/JJ	.
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+.	16qqaaa/JJ	.
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+.	16qqaaa/JJ	.
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+.	16qqaaa/JJ	.
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+!	!LO:TX:b:t=cres.	!
+.	16qqaaa/JJ	.
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+*clefF4	*	*
+!LO:TX:b:t=Zatarta czesc strony	!	!
+.	16qqaaa/JJ	[
+!!linebreak:original
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+.	16qqaaa/JJ	.
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+.	16qqaaa/JJ	.
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+.	16qqaaa/JJ	>
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	.
+.	16qqaaa/JJ	.
+.	16qqcccc-X/LL	.
+.	16qqbbb-/	.
+.	16qqccccn/	]
+.	16qqaaa/JJ	.
+!	!LO:TX:b:t=rallent.	!
+.	16qqbbb-/LL	.
+.	16qqaaan/	.
+.	16qqaaa-/	.
+.	16qqggg/JJ	.
+.	(<16qqfff/LL	.
+.	16qqddd/	.
+!	!LO:TX:b:t=smorz.	!
+.	16qqeee-/	.
+.	16qqcccny/JJ	.
+*	*X8va	*
+!	!LO:TX:a:t=loco.	!
+.	16qqbb-/LL	.
+.	16qqaa-/	.
+.	16qqcc/	.
+.	16qqdd/JJ)	.
+=33	=33	=33
+*^	*	*
+!	!	!LO:TX:a:t=Tempo 1.	!
+*ped	*	*	*
+8ryy	(8EE-L	(8ee-L 8g	ppp
+4B-	8B-	8b-	.
+.	8BB-J	8ggJ	.
+4.ryy	8E-L	8ee-L 8g	.
+.	8B-	8b-	.
+.	8BB-J)	8ggJ	.
+8ryy	(8EE-L	8ee-L 8g	.
+4B-	8B-	8b-	.
+.	8BB-J	8ggJ	.
+8ryy	8E-L	8ee-L 8g	.
+[4B-	>8B-	8b-	.
+.	8BB-J)	8ggJ)	.
+*v	*v	*	*
+=34	=34	=34
+4.B-] 4.E-	4.ee- 4.g	pp
+*clefG2	*	*
+4.b- 4.e-	4.eee- 4.gg	.
+*clefF4	*	*
+2.BB-;<\ 2.EE-\	2.e-; 2.G<	.
+*Xped	*	*
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{OCL}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Tomasz Sierawski
+!!!END: 2018-06-18
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2018-06-20
+!!!RDF**kern: i = editorial accidental
