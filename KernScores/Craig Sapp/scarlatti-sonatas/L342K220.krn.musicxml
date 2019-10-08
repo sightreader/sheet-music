@@ -1,0 +1,6 @@
+Error: new spine information is not the right size
+1	2	3	4
+Required size is: 3
+New size would be: 4
+Input line of error: 10
+Line: *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
